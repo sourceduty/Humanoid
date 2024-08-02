@@ -1,4 +1,4 @@
-![Humanoid](https://github.com/user-attachments/assets/0e4ed1a8-721e-40ff-bf65-fcd4c43f746f)
+![Humanoid](https://github.com/user-attachments/assets/eaf1ad2b-18cc-44aa-9d38-88b0dc4655e3)
 
 > Robots with human-like features.
 
