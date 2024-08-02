@@ -107,5 +107,9 @@ Each section of the humanoid robot is designed to mimic human anatomy and functi
 <br>
 [ASI](https://github.com/sourceduty/Artificial_Superintelligence)
 
+#
+
+![Humanoids](https://github.com/user-attachments/assets/93129709-f989-44e5-bb82-30cd5d224e23)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
