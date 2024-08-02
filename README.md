@@ -109,7 +109,7 @@ Each section of the humanoid robot is designed to mimic human anatomy and functi
 
 #
 
-![Humanoids](https://github.com/user-attachments/assets/93129709-f989-44e5-bb82-30cd5d224e23)
+![Humanoids](https://github.com/user-attachments/assets/944193d4-0873-4c7d-bdb3-8c1861c15c63)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
