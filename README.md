@@ -1,4 +1,4 @@
-![Humanoid](https://github.com/user-attachments/assets/2519f7ab-b8d5-40f3-a77b-5ca7ce875543)
+![Abandoned Bot](https://github.com/user-attachments/assets/6c77b39a-646c-433f-a093-26622cec5e82)
 
 > Robots with human-like features.
 
@@ -9,10 +9,6 @@ A humanoid is a robot or artificial being designed to resemble the human body in
 Humanoids are equipped with advanced sensors and actuators that allow them to perceive their surroundings and perform intricate movements. Vision systems, such as cameras and LIDAR, enable them to recognize and respond to objects and obstacles, while various types of motors provide the necessary articulation for movement. The integration of artificial intelligence and machine learning algorithms allows humanoids to learn from their experiences and adapt to new tasks, increasing their efficiency and effectiveness. This adaptability makes humanoid robots valuable in dynamic environments where tasks and conditions may change frequently.
 
 The development of humanoid robots is an ongoing challenge that involves advancements in robotics, artificial intelligence, and human-robot interaction. As technology progresses, humanoid robots are becoming more autonomous and capable of performing tasks that were once the domain of humans alone. Their potential impact spans numerous fields, from manufacturing and logistics to personal care and companionship. As these robots become more sophisticated, ethical considerations also arise, particularly regarding their roles in society, how they should be treated, and the implications of their widespread use. The future of humanoids is a fascinating frontier in robotics, offering both opportunities and challenges for developers and society alike.
-
-#
-
-![Underwater Humanoid](https://github.com/user-attachments/assets/b540d0e7-d238-471a-b045-c5b4763fbf79)
 
 #
 ### Humanoid Parts
@@ -106,6 +102,10 @@ Each section of the humanoid robot is designed to mimic human anatomy and functi
 [Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
 <br>
 [ASI](https://github.com/sourceduty/Artificial_Superintelligence)
+<br>
+[Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
+<br>
+[Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
 
 #
 
