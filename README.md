@@ -1,4 +1,4 @@
-![Abandoned Bot](https://github.com/user-attachments/assets/6c77b39a-646c-433f-a093-26622cec5e82)
+![Terminator](https://github.com/user-attachments/assets/d7a2bc9f-8ba9-453c-ad72-ff8de918c32b)
 
 > Robots with human-like features.
 
@@ -12,6 +12,8 @@ The development of humanoid robots is an ongoing challenge that involves advance
 
 #
 ### Humanoid Parts
+
+![Abandoned Bot](https://github.com/user-attachments/assets/6c77b39a-646c-433f-a093-26622cec5e82)
 
 ```
 Humanoid Robot Anatomical Topology Diagram
