@@ -1,4 +1,4 @@
-![Terminator](https://github.com/user-attachments/assets/d7a2bc9f-8ba9-453c-ad72-ff8de918c32b)
+![Termination](https://github.com/user-attachments/assets/46b950e9-c59a-4dbd-ad79-562b7702c05e)
 
 > Robots with human-like features.
 
