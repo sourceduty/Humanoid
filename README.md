@@ -1,4 +1,4 @@
-![Termination](https://github.com/user-attachments/assets/46b950e9-c59a-4dbd-ad79-562b7702c05e)
+![Native Bot](https://github.com/user-attachments/assets/b013f4cd-18e6-4355-a62a-a4496aeec95e)
 
 > Robots with human-like features.
 
@@ -120,6 +120,10 @@ The idea of Judgment Day in robotics and AI narratives raises questions about th
 #
 
 ![Evolution](https://github.com/user-attachments/assets/5af9f9b5-bfe0-49a1-9bce-233814310fef)
+
+#
+
+![Termination](https://github.com/user-attachments/assets/46b950e9-c59a-4dbd-ad79-562b7702c05e)
 
 #
 ### Related Links
