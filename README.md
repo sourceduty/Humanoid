@@ -1,4 +1,4 @@
-![Native Bot](https://github.com/user-attachments/assets/b013f4cd-18e6-4355-a62a-a4496aeec95e)
+![Bots](https://github.com/user-attachments/assets/81be0873-7fa6-40c8-8dc4-65cda189ebaf)
 
 > Robots with human-like features.
 
