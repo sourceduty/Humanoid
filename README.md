@@ -1,4 +1,4 @@
-![Bots](https://github.com/user-attachments/assets/81be0873-7fa6-40c8-8dc4-65cda189ebaf)
+![Chappie](https://github.com/user-attachments/assets/a8c26aeb-8871-45e6-8e25-33423b9fd093)
 
 > Robots with human-like features.
 
