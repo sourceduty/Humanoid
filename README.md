@@ -118,12 +118,12 @@ Judgment Day often refers to a moment when advanced robotics and artificial inte
 The idea of Judgment Day in robotics and AI narratives raises questions about the ethical responsibilities of creators and the potential dangers of unchecked technological advancement. This scenario explores themes like the relationship between creator and creation, the unpredictability of evolving systems, and the fine line between control and autonomy. These stories often culminate in a dramatic clash between humanity and machines, symbolizing a larger debate over whether humanity’s achievements or flaws will ultimately lead to their survival or extinction in a world dominated by artificial intelligence.
 
 #
-
 ![Evolution](https://github.com/user-attachments/assets/5af9f9b5-bfe0-49a1-9bce-233814310fef)
-
 #
-
 ![Termination](https://github.com/user-attachments/assets/46b950e9-c59a-4dbd-ad79-562b7702c05e)
+#
+![Tesla Robotics](https://github.com/user-attachments/assets/43cdeb36-4dde-4511-a5fe-e8b53846dc80)
+
 
 #
 ### Related Links
