@@ -141,6 +141,8 @@ The idea of Judgment Day in robotics and AI narratives raises questions about th
 [Business Automation Problem](https://github.com/sourceduty/Business_Automation_Problem)
 <br>
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+<rb>
+[Art Robotic](https://github.com/sourceduty/Art_Robotics)
 
 #
 
