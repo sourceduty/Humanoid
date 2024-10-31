@@ -123,7 +123,8 @@ The idea of Judgment Day in robotics and AI narratives raises questions about th
 ![Termination](https://github.com/user-attachments/assets/46b950e9-c59a-4dbd-ad79-562b7702c05e)
 #
 ![Tesla Robotics](https://github.com/user-attachments/assets/43cdeb36-4dde-4511-a5fe-e8b53846dc80)
-
+#
+![Bots](https://github.com/user-attachments/assets/109b983c-0d64-4eba-8018-d08c5d22fad7)
 
 #
 ### Related Links
